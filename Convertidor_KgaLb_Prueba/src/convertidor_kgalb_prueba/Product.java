@@ -2,7 +2,7 @@ package convertidor_kgalb_prueba;
 
 /**
  *
- * @author Sergio Trinidad
+ * @author Marco Gonzalez
  */
 class Product {
     private String name;
